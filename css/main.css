@@ -164,6 +164,7 @@ p{margin:0;}
     z-index: 0;
     margin: 24px 0;
     font-size: 21px;
+
 }
 
 .post-review__healine:first-line {
@@ -201,7 +202,9 @@ p{margin:0;}
     }
     .post-review__healine{
         padding-top:24px;
+        text-align: left;}
     }
+
     .post-review__healine:before{
         top:0;
         bottom: 100%;

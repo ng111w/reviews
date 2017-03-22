@@ -202,9 +202,9 @@ p{margin:0;}
     }
     .post-review__healine{
         padding-top:24px;
-        text-align: left;}
+        text-align: left;
     }
-
+    
     .post-review__healine:before{
         top:0;
         bottom: 100%;
